@@ -1,1 +1,10 @@
-# CS-255-Portfolio-Project-one-
+This is a project for the owner of DriverPass, which is a service designed to assist student drivers achieve passing their driving test by providing adequate training. The Client, DriverPass owner, would like a web application that would allow his students to register for the different types of training offered by DriverPass, as well as create individual accounts to manage their packages and also take online training modules, practice tests, and schedule road training sessions. The site's administrator should be able to login and manage all student and employee accounts.
+
+I think I did well working on the design requirements for this system. Design requirements are an important part of creating software because they help define what the system needs to do. This step required careful planning, attention to detail, and precise work.
+
+I would focus more on the functional and non-functional requirements because they are a very important part of the project. Since project needs can change over time, this part of the process is never completely finished. I would want to make the requirements more stable so they do not constantly change. I would improve this by gathering feedback from students and employees, since the people using the software can provide the most helpful input.
+
+I wanted to make sure I clearly broke down all of the requirements that were being asked of us. I separated each part of the system, including the client, students, owner, and employees, so the requirements would be easier to understand and work with. The client’s requirements are very important because without them, the final project may not meet their needs or be useful to them. Overall, the project could not be completed successfully without clearly defined requirements.
+
+When designing the software, I would first gather the requirements for any new system functions. After understanding what needs to be added, I would design the system and include the new features. To continue analyzing the system in the future, I would collect feedback from users and review any system constraints. From there, I could make the necessary fixes or changes to help the system work better.
+
